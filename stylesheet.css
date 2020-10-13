@@ -46,8 +46,8 @@ p, li{ font-family: 'Tahoma', sans-serif;
 /*Green regtangle on which h1 appears*/
 #header{ background-color: #599c78;
   height: 100px;
-  margin-left: 12em;
-  margin-right: 12em;}
+  /*margin-left: 12em;
+  margin-right: 12em;*/}
 
 /*Light green background on which all text following h1 appears*/
 #container{ background-color: #F0FFF0;
