@@ -15,7 +15,7 @@ h1{ font-family: 'Palatino', serif;
 
 /*Styles Navigation Links*/
 #navigation { background-color: #294a34;
-  height: 25px;
+  height: 100px;
   margin-left: 12em;
   margin-right: 12em;
 }
@@ -54,4 +54,8 @@ p, li{ font-family: 'Tahoma', sans-serif;
 
 /*Floats images/text wrapping*/
 img{ float: right;
-  margin: 1em;}
+  margin: 1em;
+  max-width: 100%;
+  height: auto;
+  
+}
