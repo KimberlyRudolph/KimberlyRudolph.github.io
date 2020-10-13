@@ -3,7 +3,10 @@
 /*adds background image*/ 
 body{ background-image: url(KimberlyRudolph.github.io/background.jpg);
   background-size: cover;
-  background-position: center;}
+  background-position: center;
+  max-width: 100%;
+  height: auto;
+}
 
 /*Styles main heading of "Kimberly Rudolph" at top of page*/
 h1{ font-family: 'Palatino', serif;
