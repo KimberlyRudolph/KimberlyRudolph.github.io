@@ -20,9 +20,12 @@ h1{ font-family: 'Palatino', serif;
   margin-right: 12em;
 }
   
-ul{
+ul li a{
   font-family: 'Tahoma', sans-serif;
   color: #FFFFFF;
+  list-style: none;
+  display: inline-block;
+  padding: 0 25px;
 }
   
 /*Styles "About Me" heading*/   
