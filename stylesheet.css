@@ -1,5 +1,5 @@
 @charset "UTF-8"
-	
+
 /*adds background image*/ 
 body{ 
   background-image: url(background.jpg);
@@ -7,7 +7,7 @@ body{
   background-position: center;
   max-width: 100%;
   height: auto;
-}	
+}
 
 /*Green regtangle on which h1 appears*/
 .header{ 
