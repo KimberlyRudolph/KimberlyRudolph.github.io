@@ -44,10 +44,11 @@ h1{
   font-size: 20px;
   vertical-align: middle; 
   text-transform: uppercase;
+
 }
 
 a{
-  color: white;
+	color: white;
 }
 
 a:hover{
@@ -80,10 +81,12 @@ p {
   line-height: 2;
 }
 
-li {
+.external_links a{
+  color: #000000;
   font-family: 'Tahoma', sans-serif;
   text-align: justify;
   line-height: 2;
+  text-decoration: none;
 }
 
 /*Floats images/text wrapping*/
