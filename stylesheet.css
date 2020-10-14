@@ -34,14 +34,14 @@ h1{
   margin-right: 12em;
 } 
   
-.navigation li a{
+.navigation a{
   font-family: 'Tahoma', sans-serif;
   color: #FFFFFF
   text-align: center;
   /*padding: 0 25px;*/
   list-style: none;
   text-decoration: none;
-  /*display: inline-block;*/
+  display: inline-block;
   font-size: 17px;
 }
 
