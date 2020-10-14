@@ -27,14 +27,14 @@ h1{
   vertical-align: middle;}
 
 /*Styles Navigation Links*/
-#navigation { 
+.navigation { 
   background-color: #294a34;
   height: 100px;
   margin-left: 12em;
   margin-right: 12em;
 }
   
-ul li a{
+.navigation a{
   font-family: 'Tahoma', sans-serif;
   color: #FFFFFF;
   list-style: none;
@@ -43,7 +43,7 @@ ul li a{
 }
  
 /*Light green background on which all text following h1 appears*/
-#container{ 
+.container{ 
   background-color: #F0FFF0;
   padding: 1em;
   margin-left: 12em;
@@ -62,7 +62,13 @@ h3{
 }
 
 /*Styles paragraph and list item text*/
-p, li{ 
+p { 
+  font-family: 'Tahoma', sans-serif;
+  text-align: justify;
+  line-height: 2;
+}
+
+.external_links a {
   font-family: 'Tahoma', sans-serif;
   text-align: justify;
   line-height: 2;
