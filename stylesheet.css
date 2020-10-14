@@ -104,16 +104,20 @@ img{
 }
 
 .contact_form input{
+	font-family: 'Tahoma', sans-serif;
 	line-height: 3;
 }
 
 .contact_form textarea{
+	font-family: 'Tahoma', sans-serif;
 	height: 200px;
+	width: 300px;
 }
 
 .contact_form input[type=submit]{
 	background-color: #294a34;
 	font-family: 'Tahoma', sans-serif;
+	font-weight: bold;
 	font-size: 14px;
 	margin-left: auto;
 	margin-right: auto;
