@@ -135,5 +135,6 @@ img{
 } 
 
 t2video {
-  align-items: center;
+  display: block;
+  margin: 0 auto;
 }
