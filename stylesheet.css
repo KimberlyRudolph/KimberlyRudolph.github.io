@@ -125,3 +125,11 @@ img{
 	width: 100%;
 	color: white;
 }
+
+.t1supplies {
+  color: #000000;
+  font-family: 'Tahoma', sans-serif;
+  text-align: justify;
+  line-height: 2;
+  text-decoration: none;
+}
