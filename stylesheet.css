@@ -135,8 +135,6 @@ img{
 } 
 
 .t1table{
-  color: #000000;
-  font-family: 'Tahoma', sans-serif;
-  text-align: justify;	
+  padding: 5px;
 }
 
