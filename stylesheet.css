@@ -133,3 +133,9 @@ img{
   line-height: 2;
   text-decoration: none;
 } 
+
+.t1table td{
+  color: #000000;
+  font-family: 'Tahoma', sans-serif;
+  text-align: justify;	
+}
