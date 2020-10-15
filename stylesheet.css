@@ -134,3 +134,8 @@ img{
   text-decoration: none;
 } 
 
+t2video {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
