@@ -1,6 +1,6 @@
 @charset "UTF-8"
 
-/*adds background image*/ 
+/*ADDS BACKGROUND IMAGE*/ 
 body{ 
   background-image: url(background.jpg);
   background-size: cover;
@@ -9,7 +9,7 @@ body{
   height: auto;
 }
 
-/*Green regtangle on which h1 appears*/
+/*GREEN RECTANGLE ON WHICH H1 APPEARS*/
 .header{ 
   background-color: #599c78;
   height: 100px;
@@ -17,7 +17,7 @@ body{
   margin-right: 12em;
 }
 
-/*Styles main heading of "Kimberly Rudolph" at top of page*/
+/*MAIN HEADING OF "KIMBERLY RUDOLPH" AT TOP OF PAGE*/
 h1{ 
   font-family: 'Palatino', serif;
   color: #FFFFFF;
@@ -25,16 +25,17 @@ h1{
   font-weight: bolder;
   text-align: center;
   vertical-align: middle;
-  }
+}
 
-/*Styles Navigation Links*/
-.navigation { 
+/*NAVIGATION BAR*/
+.navigation{ 
   background-color: #294a34;
   height: 50px;
   margin-left: 12em;
   margin-right: 12em;
 } 
-  
+ 
+/*NAVIGATION LINKS*/
 .navigation a{
   font-family: 'Tahoma', sans-serif;
   text-align: center;
@@ -44,18 +45,19 @@ h1{
   font-size: 20px;
   vertical-align: middle; 
   text-transform: uppercase;
-
 }
 
+/*NAVIGATION LINKS COLOR*/ 
 a{
-	color: white;
+  color: white;
 }
 
+/*NAVIGATION LINK HOVER COLOR*/
 a:hover{
   color: gray;
 }
  
-/*Light green background on which all text following h1 appears*/
+/*LIGHT GREEN BACKGROUND ON WHICH ALL MAIN BODY TEXT (EXCLUDING H1) APPEARS*/
 .container{ 
   background-color: #F0FFF0;
   padding: 1em;
@@ -63,24 +65,25 @@ a:hover{
   margin-right: 12em;
 }
 
-/*Styles "About Me" heading*/   
+/*ABOUT ME HEADING*/   
 h2{ 
   font-family: 'Tahoma', sans-serif;
   font-size: 2rem;
 }
 
-/*Styles "Hobbies" and "Links" headings*/
+/*HOBBIES AND LINKS HEADINGS*/
 h3{ 
   font-family: 'Tahoma', sans-serif;
 }
 
-/*Styles paragraph text*/
-p { 
+/*PARAGRAPH TEXT*/
+p{
   font-family: 'Tahoma', sans-serif;
   text-align: justify;
   line-height: 2;
 }
 
+/*EXTERNAL LINKS*/
 .external_links a{
   color: #000000;
   font-family: 'Tahoma', sans-serif;
@@ -89,7 +92,7 @@ p {
   text-decoration: none;
 }
 
-/*Floats images/text wrapping*/
+/*FLOATS IMAGES/TEXT WRAPPING*/
 img{ 
   float: right;
   margin: 1em;
@@ -97,24 +100,28 @@ img{
   height: auto;  
 }
 
-.contact_form { 
+/*CONTACT FORM*/
+.contact_form{ 
    margin-left:auto;
    margin-right:auto;
    width:100px;
 }
 
+/*CONTACT FORM TEXT INPUT*/
 .contact_form input{
 	font-family: 'Tahoma', sans-serif;
 	line-height: 3;
 	width: 300px;
 }
 
+/*CONTACT FORM TEXT AREA*/
 .contact_form textarea{
 	font-family: 'Tahoma', sans-serif;
 	height: 200px;
 	width: 300px;
 }
 
+/*CONTACT FORM SUBMIT BUTTON*/
 .contact_form input[type=submit]{
 	background-color: #294a34;
 	font-family: 'Tahoma', sans-serif;
@@ -126,6 +133,7 @@ img{
 	color: white;
 }
 
+/*TUTORIAL 1 SUPPLY UL LI*/
 .t1supplies li{
   color: #000000;
   font-family: 'Tahoma', sans-serif;
