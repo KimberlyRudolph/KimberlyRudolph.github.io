@@ -1,13 +1,5 @@
 @charset "UTF-8"
 
-/*ADDS BACKGROUND IMAGE*/ 
-body{ 
-  background-image: url(KimberlyRudolph.github.io/background.jpg);
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-}
-
 /*GREEN RECTANGLE ON WHICH H1 APPEARS*/
 .header{ 
   background-color: #599c78;
