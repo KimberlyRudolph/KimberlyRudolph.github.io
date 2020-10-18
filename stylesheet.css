@@ -25,12 +25,6 @@ h1{
   vertical-align: middle;
 }
 
-@media screen and (max-width: 500px){
-h1{
-  font-size: 30px;
-  }
-}
-
 /*NAVIGATION BAR*/
 .navigation{ 
   background-color: #294a34;
@@ -49,14 +43,6 @@ h1{
   font-size: 20px;
   vertical-align: middle; 
   text-transform: uppercase;
-}
-
-@media screen and (max-width: 500px){
-.navigation a{
-    float: none;
-    display: block;
-    text-align: left;
-  }
 }
 
 /*NAVIGATION LINKS COLOR*/ 
