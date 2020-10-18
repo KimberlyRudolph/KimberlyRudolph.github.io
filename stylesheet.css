@@ -43,6 +43,7 @@ h1{
   font-size: 20px;
   vertical-align: middle; 
   text-transform: uppercase;
+  border-radius: 2px;
 }
 
 /*NAVIGATION LINKS COLOR*/ 
