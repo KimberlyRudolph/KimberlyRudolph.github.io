@@ -19,10 +19,16 @@ body{
 h1{ 
   font-family: 'Palatino', serif;
   color: #FFFFFF;
-  font-size: 5rem;
+  font-size: 80px;
   font-weight: bolder;
   text-align: center;
   vertical-align: middle;
+}
+
+@media screen and (max-width: 500px){
+h1{
+  font-size: 30px;
+  }
 }
 
 /*NAVIGATION BAR*/
@@ -45,7 +51,7 @@ h1{
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 500px){
 .navigation a{
     float: none;
     display: block;
