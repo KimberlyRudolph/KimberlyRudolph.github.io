@@ -11,6 +11,7 @@ body{
 .header{ 
   background-color: #599c78;
   height: 100px;
+  width: 100%;
   margin-left: 12em;
   margin-right: 12em;
 }
