@@ -138,4 +138,9 @@ img{
   text-align: justify;
   line-height: 2;
   text-decoration: none;
-} 
+}
+
+<!--IMAGE GALLERY TABLE FORMATTING-->
+.image_gallery {
+  padding: 10px;
+}
