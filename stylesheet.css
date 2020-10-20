@@ -142,5 +142,6 @@ img{
 
 <!--IMAGE GALLERY TABLE FORMATTING-->
 .image_gallery{
-  border-spacing: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
