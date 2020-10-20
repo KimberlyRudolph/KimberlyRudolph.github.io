@@ -141,6 +141,6 @@ img{
 }
 
 <!--IMAGE GALLERY TABLE FORMATTING-->
-.image_gallery td{
-  border-spacing: 15px 5px;
+.image_gallery{
+  border-spacing: 15px 15px;
 }
