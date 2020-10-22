@@ -143,7 +143,7 @@ img{
 }
 
 /*LINKS TO RESOURCES*/
-.resources a{
+.resources li a{
   color: #000000;
   font-family: 'Tahoma', sans-serif;
   text-align: justify;
