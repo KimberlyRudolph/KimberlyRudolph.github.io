@@ -142,6 +142,11 @@ img{
   text-decoration: none;
 }
 
+.resources{
+  display: inline-block;
+  float: left;
+}
+
 /*LINKS TO RESOURCES*/
 .resources li a{
   color: #000000;
@@ -151,3 +156,4 @@ img{
   text-decoration: none;
   list-style-type: none;
 }
+
