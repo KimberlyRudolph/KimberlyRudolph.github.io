@@ -142,11 +142,6 @@ img{
   text-decoration: none;
 }
 
-.resources{
-  display: inline-block;
-  float: left;
-}
-
 /*LINKS TO RESOURCES*/
 .resources li a{
   color: #000000;
