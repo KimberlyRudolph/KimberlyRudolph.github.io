@@ -91,7 +91,7 @@ p{
 }
 
 /*EXTERNAL LINKS HOVER COLOR*/
-.external_links a:hover{
+.external_links li a:hover{
   color: gray;
 }
 
