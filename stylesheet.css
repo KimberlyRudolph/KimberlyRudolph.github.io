@@ -43,12 +43,13 @@ h1{
   font-size: 20px;
   vertical-align: middle; 
   text-transform: uppercase;
-}
-
-/*NAVIGATION LINKS COLOR*/ 
-a{
   color: white;
 }
+
+/*NAVIGATION LINKS COLOR
+a{
+  color: white;
+}*/
 
 /*NAVIGATION LINK HOVER COLOR*/
 a:hover{
