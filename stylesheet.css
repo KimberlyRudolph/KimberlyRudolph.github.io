@@ -90,6 +90,11 @@ p{
   text-decoration: none;
 }
 
+/*EXTERNAL LINKS HOVER COLOR*/
+.external_links a:hover{
+  color: gray;
+}
+
 /*FLOATS IMAGES/TEXT WRAPPING*/
 img{ 
   float: right;
@@ -150,5 +155,10 @@ img{
   line-height: 2;
   text-decoration: none;
   list-style-type: none;
+}
+
+/*LINKS TO RESOURCES HOVER COLOR*/
+.resources a:hover{
+  color: gray;
 }
 
