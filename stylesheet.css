@@ -158,7 +158,7 @@ img{
 }
 
 /*LINKS TO RESOURCES HOVER COLOR*/
-.resources a:hover{
+.resources li a:hover{
   color: gray;
 }
 
