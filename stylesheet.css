@@ -43,13 +43,12 @@ h1{
   font-size: 20px;
   vertical-align: middle; 
   text-transform: uppercase;
-  color: white;
 }
 
-/*NAVIGATION LINKS COLOR
+/*NAVIGATION LINKS COLOR*/
 a{
   color: white;
-}*/
+}
 
 /*NAVIGATION LINK HOVER COLOR*/
 a:hover{
@@ -136,6 +135,15 @@ img{
 
 /*TUTORIAL 1 SUPPLY UL LI*/
 .t1supplies li{
+  color: #000000;
+  font-family: 'Tahoma', sans-serif;
+  text-align: justify;
+  line-height: 2;
+  text-decoration: none;
+}
+
+/*LINKS TO RESOURCES*/
+.resources li{
   color: #000000;
   font-family: 'Tahoma', sans-serif;
   text-align: justify;
