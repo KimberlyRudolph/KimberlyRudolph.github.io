@@ -161,15 +161,3 @@ img{
 .resources li a:hover{
   color: gray;
 }
-
-/*RESOURCE LINKS COLUMN FORMATTING*/
-.resources{
-  column-count: 2;
-}
-
-/*RESOURCE LINKS COLUMN BREAKS*/
-.resources h3{
-  break-before: column;
-  -webkit-column-break-before: always;
-}
-
