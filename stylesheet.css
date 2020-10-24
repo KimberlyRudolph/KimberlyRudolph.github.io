@@ -91,7 +91,7 @@ h1{
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 800px){ 
+@media screen and (max-width: 801px){ 
   .navigation a{
     font-size: 20px; 
     padding: 2px;
