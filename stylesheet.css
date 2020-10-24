@@ -17,8 +17,8 @@ body{
 
 @media screen and (max-width: 480px){ 
   .header{ 
-    margin-left: 1em;
-    margin-right: 1em; 
+    margin-left: 20px;
+    margin-right: 20px; 
   } 
 } 
 
