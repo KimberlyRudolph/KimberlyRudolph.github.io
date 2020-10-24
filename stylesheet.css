@@ -26,8 +26,8 @@ body{
 @media screen and (max-width: 801px){ 
   .header{ 
     height: 50px;
-    margin-left: 2em;
-    margin-right: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
   } 
 }
 
@@ -52,8 +52,8 @@ h1{
 @media screen and (max-width: 801px){ 
   h1{
     font-size: 40px;
-    margin-left: 2em;
-    margin-right: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
   }
 }
 
@@ -87,6 +87,7 @@ h1{
 @media screen and (min-width: 1200px){ 
   .navigation a{
     font-size: 20px; 
+    padding: 5px;
   }
 } 
 
