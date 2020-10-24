@@ -27,7 +27,7 @@ body{
 h1{ 
   font-family: 'Palatino', serif;
   color: #FFFFFF;
-  font-size: 2rem;
+  font-size: 25px;
   font-weight: bolder;
   text-align: center;
   vertical-align: middle;
@@ -63,7 +63,7 @@ h1{
   margin: 1em;  
   padding: 20px;
   text-decoration: none;
-  font-size: 10px;
+  font-size: 20px;
   vertical-align: middle; 
   text-transform: uppercase;
 }
