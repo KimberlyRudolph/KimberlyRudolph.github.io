@@ -147,6 +147,14 @@ img{
   text-decoration: none;
 }
 
+/*RESOURCE LINKS COLUMN FORMATTING*/
+.resources li{
+  column-count: 4; 
+  -webkit-column-count: 4;
+  -moz-column-count: 4;
+  -o-column-count: 4;
+} 
+
 /*RESOURCE LINKS*/
 .resources li a{
   color: #000000;
