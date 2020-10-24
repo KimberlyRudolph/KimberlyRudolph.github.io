@@ -15,13 +15,13 @@ body{
   margin-right: 12em;
 }
 
-@media screen and (max-width: 480px){ 
+/*@media screen and (max-width: 480px){ 
   .header{ 
     height: 25px;
     margin-left: 1em;
     margin-right: 1em;
   } 
-}
+}*/
 
 /*MAIN HEADING OF "KIMBERLY RUDOLPH" AT TOP OF PAGE*/
 h1{ 
@@ -54,10 +54,16 @@ h1{
   margin: 1em;  
   padding: 20px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 10px;
   vertical-align: middle; 
   text-transform: uppercase;
 }
+
+@media (min-width: 1200px){ 
+  .navigation a{
+    font-size: 20px; 
+  }
+} 
 
 /*NAVIGATION LINKS COLOR*/
 a{
