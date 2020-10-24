@@ -15,6 +15,12 @@ body{
   margin-right: 12em;
 }
 
+@media screen and (max-width: 320px){ 
+  .header{ 
+    margin: 1em 1em; 
+  } 
+} 
+
 /*MAIN HEADING OF "KIMBERLY RUDOLPH" AT TOP OF PAGE*/
 h1{ 
   font-family: 'Palatino', serif;
