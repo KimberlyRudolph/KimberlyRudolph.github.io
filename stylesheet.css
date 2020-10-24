@@ -147,7 +147,7 @@ img{
   text-decoration: none;
 }
 
-/*LINKS TO RESOURCES*/
+/*RESOURCE LINKS*/
 .resources li a{
   color: #000000;
   font-family: 'Tahoma', sans-serif;
@@ -157,8 +157,19 @@ img{
   list-style-type: none;
 }
 
-/*LINKS TO RESOURCES HOVER COLOR*/
+/*RESOURCE LINKS HOVER COLOR*/
 .resources li a:hover{
   color: gray;
+}
+
+/*RESOURCE LINKS COLUMN FORMATTING*/
+.resources{
+  column-count: 2;
+}
+
+/*RESOURCE LINKS COLUMN BREAKS*/
+.resources h3{
+  break-before: column;
+  -webkit-column-break-before: always;
 }
 
