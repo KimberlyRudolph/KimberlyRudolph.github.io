@@ -26,11 +26,17 @@ body{
 h1{ 
   font-family: 'Palatino', serif;
   color: #FFFFFF;
-  font-size: 80px;
+  font-size: 2rem;
   font-weight: bolder;
   text-align: center;
   vertical-align: middle;
 }
+
+@media (min-width: 1200px){ 
+  h1{
+    font-size: 4rem; 
+  }
+} 
 
 /*NAVIGATION BAR*/
 .navigation{ 
