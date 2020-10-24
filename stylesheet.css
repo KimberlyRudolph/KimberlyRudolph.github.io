@@ -72,6 +72,13 @@ h1{
   } 
 }
  
+@media screen and (max-width: 801px){ 
+  .navigation{ 
+    margin-left: 1em;
+    margin-right: 1em;
+  } 
+}
+
 /*NAVIGATION LINKS*/
 .navigation a{
   font-family: 'Tahoma', sans-serif;
@@ -110,6 +117,13 @@ a:hover{
 }
 
 @media screen and (max-width: 480px){ 
+  .container{ 
+    margin-left: 1em;
+    margin-right: 1em;
+  } 
+}
+
+@media screen and (max-width: 801px){ 
   .container{ 
     margin-left: 1em;
     margin-right: 1em;
