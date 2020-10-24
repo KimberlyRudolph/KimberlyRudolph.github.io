@@ -27,19 +27,27 @@ body{
 h1{ 
   font-family: 'Palatino', serif;
   color: #FFFFFF;
-  font-size: 25px;
+  font-size: 80px;
   font-weight: bolder;
   text-align: center;
   vertical-align: middle;
 }
 
-@media screen and (min-width: 1200px){ 
+@media screen and (max-width: 480px){ 
   h1{
-    font-size: 80px;
+    font-size: 25px;
     margin-left: 1em;
     margin-right: 1em;
   }
-} 
+}
+
+@media screen and (max-width: 801px){ 
+  h1{
+    font-size: 40px;
+    margin-left: 2em;
+    margin-right: 2em;
+  }
+}
 
 /*NAVIGATION BAR*/
 .navigation{ 
