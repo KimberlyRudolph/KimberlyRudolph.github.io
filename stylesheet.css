@@ -15,13 +15,13 @@ body{
   margin-right: 12em;
 }
 
-/*@media screen and (max-width: 480px){ 
+@media screen and (max-width: 480px){ 
   .header{ 
     height: 25px;
     margin-left: 1em;
     margin-right: 1em;
   } 
-}*/
+}
 
 /*MAIN HEADING OF "KIMBERLY RUDOLPH" AT TOP OF PAGE*/
 h1{ 
@@ -48,6 +48,13 @@ h1{
   margin-left: 12em;
   margin-right: 12em;
 } 
+
+@media screen and (max-width: 480px){ 
+  .navigation{ 
+    margin-left: 1em;
+    margin-right: 1em;
+  } 
+}
  
 /*NAVIGATION LINKS*/
 .navigation a{
@@ -85,11 +92,11 @@ a:hover{
   margin-right: 12em;
 }
 
-@media screen and (min-width: 1200px){ 
-  .container{
+@media screen and (max-width: 480px){ 
+  .container{ 
     margin-left: 1em;
     margin-right: 1em;
-  }
+  } 
 }
 
 /*ABOUT ME HEADING*/   
