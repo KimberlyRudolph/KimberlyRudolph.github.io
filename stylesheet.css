@@ -91,12 +91,12 @@ h1{
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 480px){ 
+/*@media screen and (max-width: 480px){ 
   .navigation a{
     font-size: 20px; 
     padding: 2px;
   }
-} 
+} */
 
 /*NAVIGATION LINKS COLOR*/
 a{
