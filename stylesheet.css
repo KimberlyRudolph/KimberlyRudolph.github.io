@@ -238,6 +238,7 @@ img{
 
 /*FIGURES - JEWELRY MAKING PAGE*/
 figure {
+  border: thin silver solid;
   border-top: none;
   padding-top: 0;
 }
