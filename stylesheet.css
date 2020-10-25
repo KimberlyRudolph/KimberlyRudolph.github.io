@@ -239,8 +239,9 @@ img{
 /*FIGURES - JEWELRY MAKING IMAGES*/
 figure{
   display: inline-block;
+  border: 5px #FFFFFF;
   border-top: none;
-  padding: 5em;
+  padding: 1em;
 }
 
 figcaption{
