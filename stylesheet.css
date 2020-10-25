@@ -240,11 +240,11 @@ img{
 figure{
   display: inline-block;
   border-top: none;
-  padding-top: 0;
+  padding: 5em;
 }
 
 figcaption{
+  text-align: center;
   padding: 0.5em;
-  border: thin silver solid;
-  border-bottom: none;
+  border: 5px #FFFFFF;
 }
