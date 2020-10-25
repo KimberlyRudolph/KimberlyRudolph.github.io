@@ -238,4 +238,6 @@ img{
 
 figcaption{
   font-family: 'Tahoma', sans-serif;
+  text-align: center;
+  border: none;
 }
