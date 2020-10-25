@@ -235,9 +235,3 @@ img{
 .resources li a:hover{
   color: gray;
 }
-
-figcaption{
-  font-family: 'Tahoma', sans-serif;
-  text-align: center;
-  border: none;
-}
