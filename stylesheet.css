@@ -240,7 +240,6 @@ img{
 figure{
   display: inline-block;
   border: 5px #FFFFFF;
-  border-top: none;
   padding: 1em;
 }
 
