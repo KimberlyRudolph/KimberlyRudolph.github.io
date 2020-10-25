@@ -238,13 +238,13 @@ img{
 
 /*FIGURES - JEWELRY MAKING IMAGES*/
 figure{
-  display: inline-block;
-  border: 5px #FFFFFF;
-  padding: 0;
+  border-top: none;
+  padding-top: 0;
 }
 
 figcaption{
-  font-family: 'Tahoma', sans-serif;
-  text-align: center;
+  font-family: 'Tahoma', sans-serif;	
   padding: 0.5em;
+  border: thin silver solid;
+  border-bottom: none;
 }
