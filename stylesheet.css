@@ -237,7 +237,7 @@ img{
 }
 
 /*FIGURES - JEWELRY MAKING IMAGES*/
-figure{
+/*figure{
   display: inline-block;
   float: left;
   border: thin silver solid;
@@ -250,4 +250,4 @@ figcaption{
   padding: 0.5em;
   border: thin silver solid;
   border-bottom: none;
-}
+}*/
