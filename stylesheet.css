@@ -238,9 +238,11 @@ img{
 
 /*FIGURES - JEWELRY MAKING IMAGES*/
 figure{
-  border: 5px #FFFFFF;
-  border-top: none;
-  padding-top: 0;
+  display: inline-block;
+  text-align: center;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
 }
 
 figcaption{
