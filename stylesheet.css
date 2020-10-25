@@ -238,6 +238,7 @@ img{
 
 /*FIGURES - JEWELRY MAKING IMAGES*/
 figure{
+  border: 5px #FFFFFF;
   border-top: none;
   padding-top: 0;
 }
