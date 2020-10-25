@@ -235,3 +235,15 @@ img{
 .resources li a:hover{
   color: gray;
 }
+
+/*FIGURES - JEWELRY MAKING PAGE*/
+figure {
+  border-top: none;
+  padding-top: 0;
+}
+figcaption {
+  font-family: 'Tahoma', sans-serif;
+  padding: 0.5em;
+  border: thin silver solid;
+  border-bottom: none;
+}
