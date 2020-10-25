@@ -238,7 +238,7 @@ img{
 
 /*FIGURES - JEWELRY MAKING IMAGES*/
 figure{
-  display: inline-block;
+  display: block;
   text-align: center;
   border: thin silver solid;
   margin: 0.5em;
