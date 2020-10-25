@@ -240,7 +240,7 @@ img{
 figure {
   display: inline-block;
   border: thin silver solid;
-  padding-top: 0;
+  padding: 0;
 }
 
 figcaption {
