@@ -260,7 +260,7 @@ figcaption{
 }
 
 /*JEWELRY MAKING TOOLS LI*/
-li{
+.tools li{
   color: #000000;
   font-family: 'Tahoma', sans-serif;
   text-align: justify;
