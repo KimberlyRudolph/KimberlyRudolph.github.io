@@ -55,7 +55,7 @@ h1{
 /*MAIN HEADING RESIZING MAX 801PX*/
 @media screen and (max-width: 801px){ 
   h1{
-    font-size: 40px;
+    font-size: 25px;
     margin-left: 1em;
     margin-right: 1em;
   }
