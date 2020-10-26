@@ -10,7 +10,61 @@
       <!--LINKS TO STYLESHEET-->
       <link rel="stylesheet" type="text/css" href="stylesheet.css">
       <!--ADDS BACKGROUND IMAGE-->
+      <style><!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="description" content="This webpage will act as my portfolio of work for the CPT422 HTML course. This particular page contains a form for visitors to initiate contact with me.">
+      <meta name="author" content="Kimberly Rudolph">
+      <meta name="date" content="2020-10-18">
+      <title>Contact Me</title>
+      <!--LINKS TO STYLESHEET-->
+      <link rel="stylesheet" type="text/css" href="stylesheet.css">
+      <!--ADDS BACKGROUND IMAGE-->
       <style>
+         body{ 
+         background-image: url(KimberlyRudolph.github.io/background.jpg);
+         background-size: 100% auto;
+         background-position: center;
+         background-attachment: fixed;
+         }
+      </style>
+   </head>
+   <body>
+      <!--MAIN PAGE HEADING-->
+      <div class="header">
+         <h1>Kimberly Rudolph</h1>
+      </div>
+      <!--NAVIGATION LINKS-->
+      <div class="navigation"
+      <table>
+         <tr>
+            <td><a href="index.html">Home</a></td>
+            <td><a href="jewelry_making.html">Jewelry Making</a></td>
+            <td><a href="tutorials.html">Tutorials</a></td>
+            <td><a href="gallery.html">Gallery</a></td>
+            <td><a href="links.html">Links</a></td>
+            <td><a href="contact_me.html">Contact</a></td>
+         </tr>
+      </table>
+      </div>
+      <!--MAIN BODY CONTENT-->
+      <div class="container">
+      <h2>Contact Me</h2>
+      <p>Let's talk! Complete the form below.</p>
+      <!--CONTACT FORM-->   
+      <div class="contact_form">
+         <form action="/contact_form.php" method="get">
+            <p><input type="text" id="name" placeholder="Name"></p>
+            <p><input type="email" id="mail" placeholder="E-mail address"></p>
+            <p><input type="text" id="subject" placeholder="Subject"></p>
+            <p><textarea id="your message" placeholder="Your Message"></textarea></p>
+            <p><input type="submit" value="Submit"></p>
+         </form>
+      </div>
+   </body>
+</html>
          body{ 
          background-image: url(KimberlyRudolph.github.io/background.jpg);
          background-size: 100% auto;
