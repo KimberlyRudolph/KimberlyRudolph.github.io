@@ -267,3 +267,7 @@ figcaption{
   line-height: 2;
   text-decoration: none;
 }
+
+.gallery td{
+  text-align: center;
+}
