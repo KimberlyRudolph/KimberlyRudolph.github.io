@@ -258,11 +258,3 @@ figcaption{
   font-family: 'Tahoma', sans-serif;
   text-align: center;
 }
-
-/*JEWELRY MAKING - TOOLS LI*/
-.tool_descriptions li{
-  color: #000000;
-  font-family: 'Tahoma', sans-serif;
-  line-height: 2;
-  text-decoration: none;
-}
